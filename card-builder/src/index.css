@@ -10,3 +10,7 @@ html,body{
    background-color: black;
    color: white;
 }
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
